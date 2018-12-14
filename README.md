@@ -1,2 +1,1 @@
-# name
-# runescape
+# Mokomes GID
