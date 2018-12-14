@@ -1,0 +1,10 @@
+h1{
+	color: red;
+}
+	h1:hover{
+		color:darkred;
+		text-decoration: underline;
+}
+h1:active{
+	color: green;
+}
